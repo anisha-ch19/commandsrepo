@@ -9,5 +9,7 @@ docker rm -f image id
 docker start container name / id
 docker attach container name / id 
 
+***************************************************************
+
 
 
